@@ -16,7 +16,7 @@ You can check out the current blog [here](https://deaconn.net/blog)! Additionall
 * Buttons to share the blog post on Twitter and other platforms.
 * Real-time visibility on what your Markdown will look like (see below).
 
-<img src="https://thumbs.gfycat.com/UnlinedHiddenCockroach-size_restricted.gif">
+<a href="https://gfycat.com/ifr/UnlinedHiddenCockroach"><img src="https://thumbs.gfycat.com/UnlinedHiddenCockroach-size_restricted.gif"></a>
 
 This blog was custom-made myself. While I did use Django's modular system, I did implement many of the features seen above!
 
