@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="300" height="100" src="https://github.com/deaconn-net/deaconn/raw/master/public/images/header_banner.png">
+    <img width="300" height="100" src="https://deaconn.net/images/header_banner.png">
 </p>
 
 # [Welcome!](https://deaconn.net/)
